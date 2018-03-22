@@ -1,10 +1,7 @@
 language: node_js
 node_js:
   - node
-install:
-  - npm install
 services:
   - postgresql
 before_script:
   - psql -c 'create database palette_picker_test;' -U postgres
-os: osx
