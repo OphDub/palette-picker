@@ -1,4 +1,4 @@
-# Palette Picker | [![Build Status](https://travis-ci.org/OphDub/palette-picker.svg?branch=master)](https://travis-ci.org/OphDub/palette-picker)
+# Palette Picker [![Build Status](https://travis-ci.org/OphDub/palette-picker.svg?branch=master)](https://travis-ci.org/OphDub/palette-picker)
 
 ## Synopsis
 
